@@ -56,7 +56,17 @@
     </main>
   </template>
   
-  <script setup></script>
+  <script setup>
+  import gsap from 'gsap'
+
+
+  onMounted(() => {
+  const aa = document.querySelectorAll("a");
+  gsap.from("body", 1, { opacity: 0 });
+  gsap.from(aa, 1, { stagger: 0.3, delay: 1, opacity: 0 });
+});
+
+  </script>
   
   <style>
   h1 {
@@ -64,7 +74,7 @@
   }
   @media screen and (orientation: landscape) {
     .indexMain {
-      padding: 8em 16em;
+      padding: 8em 8em;
     }
   }
   @media screen and (orientation: portrait) {

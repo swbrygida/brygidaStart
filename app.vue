@@ -1,6 +1,8 @@
 <template>
   <div id="calak">
+  <ClientOnly>
     <NuxtPage />
+  </ClientOnly>
   </div>
 </template>
 <style>
