@@ -1,21 +1,21 @@
 <template>
     <main>
     <Belka />
-  
-    <img src="../icons/info.jpg" class="infoo" alt="Informacja o dopinansowaniu projektu ze środków Ministerstwa Kultury i 
+
+    <img src="../icons/info.jpg" class="infoo" alt="Informacja o dopinansowaniu projektu ze środków Ministerstwa Kultury i
     Dziedzictwa Narodowego">
     <div class="dofinansowano">
     <p>
-     Projekt zakłada zbudowanie aplikacji internetowej, która w sposób przyjazny użytkownikom, przy użyciu współczesnych technologii internetowych, będzie udostępniała, prezentowała i pomagała wyszukać, wszystkie dotychczas zdigitalizowane obiekty związane z kościołem pobrygidkowskim. 
- 
+     Projekt zakłada zbudowanie aplikacji internetowej, która w sposób przyjazny użytkownikom, przy użyciu współczesnych technologii internetowych, będzie udostępniała, prezentowała i pomagała wyszukać, wszystkie dotychczas zdigitalizowane obiekty związane z kościołem pobrygidkowskim.
+
  Będą to w szczególności - eksponaty i zabytkowe wyposażenie, gigapanoramy ołtarzy, makiety przebudowy kościoła, panorama lotnicza, panorama pól grunwaldzkich, linia czasu św. Brygidy, tabliczki memoratywne, obrazy emblematyczne, świątynia 3d - film i spacer oraz stworzony wirtualny przewodnik 3d po kościele.
- 
+
  Na potrzeby projektu wykorzystane zostaną zdigitalizowane w ramach działania - Kultura Cyfrowa 2016, 2017 oraz 2021 – zasoby, które stworzą spójną, nowoczesną i dostępną w Internecie ofertę, będącą jednocześnie podsumowaniem dotychczas zrealizowanych projektów.
- 
+
   </p><p>
- 
+
  W związku z realizacją wniosku z Kultury Cyfrowej 2023 wykonano: <br>
- 
+
  1. Zbudowano aplikację internetową, która w sposób przyjazny użytkownikom, przy użyciu współczesnych technologii internetowych udostępnia, prezentuje i pomaga wyszukać wg metadanych, wszystkie dotychczas zdigitalizowane obiekty związane z kościołem pobrygidkowskim, tworząc podsumowanie dotychczas zrealizowanych projektów w ramach programu Kultura Cyfrowa.
  <br>
  Modele zabytków oraz tabliczek memoratywnych dostępne są pod adresem:
@@ -49,5 +49,6 @@
    }
    img.infoo {
     width: 100%!important;
+    margin: 6em 0!important;
    }
    </style>
