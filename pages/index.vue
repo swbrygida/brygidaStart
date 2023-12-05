@@ -37,6 +37,21 @@
           >
         </div>
         <div>
+          <NuxtLink target="_blank" to="https://swbrygida.pl/historia-ekspozycja-historyczna/"
+            ><img src="../public/foto/eh.jpg" />ekspozycja historyczna
+          </NuxtLink>
+        </div>
+        <div>
+          <NuxtLink target="_blank" to="https://swbrygida.pl/historia-ekspozycja-archeologiczna/"
+            ><img src="../public/foto/ea.jpg" />ekspozycja archeologiczna
+          </NuxtLink>
+        </div>
+        <div>
+          <NuxtLink target="_blank" to="https://swbrygida.pl/historia-ekspozycja-numizmatyczna/"
+            ><img src="../public/foto/en.jpg" />ekspozycja numizmatyczna
+          </NuxtLink>
+        </div>
+        <div>
           <NuxtLink target="_blank" to="https://pobrygidkowski.pl/pl/audio.html"
             ><img src="../public/foto/10.png" />audio - pełna historia</NuxtLink
           >
