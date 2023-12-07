@@ -1,5 +1,6 @@
 <template>
     <main>
+      <Dostepny />
       <Belka />
       <h1>Index</h1>
       <div class="indexMain">
@@ -21,7 +22,7 @@
         <div>
           <NuxtLink target="_blank" to="https://brygida-model.vercel.app/"
             ><img 
-            alt="obrazek przedstawia cyfrowy model pierwszej fazy budowy kościoła rektoralnego, tekstura cegieł na ścianach"
+            alt="obrazek przedstawia cyfrowy model pierwszej fazy budowy kościoła rektoralnego"
             src="../public/foto/03.png" />model układu kościoła</NuxtLink
           >
         </div>
@@ -29,7 +30,7 @@
         <div>
           <NuxtLink target="_blank" to="https://my.matterport.com/show/?m=ZTVZxKyLyMm"
             ><img 
-            alt="obrazek przedstawia rzeżbione sklepienie prezbiterium kościoła rektoralnego ze zwisającym na pierwszym planie żyrandolem"
+            alt="obrazek przedstawia rzeżbione sklepienie prezbiterium kościoła rektoralnego"
             src="../public/foto/09.png" />spacer 3d po kosciele</NuxtLink
           >
         </div>
@@ -44,7 +45,7 @@
         <div>
           <NuxtLink target="_blank" to="/m1"
             ><img 
-            alt="obrazek przedstawia makietę obecnej bryły kościoła rektoralnego wykonaną z plastiku, białe otynkowane ściany oraz czerwone dachówki"
+            alt="obrazek przedstawia makietę obecnej bryły kościoła rektoralnego wykonaną z plastiku"
             src="../public/foto/06.png" />makiety kościoła</NuxtLink
           >
         </div>
