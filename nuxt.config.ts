@@ -5,8 +5,10 @@ export default defineNuxtConfig({
     head: {
       charset: 'utf-8',
       viewport: 'width=device-width, initial-scale=1',
-      lang: "pl-PL",
-      title: "Historia Cyfrowa Kościoła Rektoralnego w Lublinie"
+      title: "Historia Cyfrowa Kościoła Rektoralnego w Lublinie",
+      htmlAttrs: {
+        lang: 'pl'
+      }
     }
   }
 })
