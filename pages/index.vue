@@ -5,65 +5,89 @@
       <div class="indexMain">
         <div>
           <NuxtLink target="_blank" to="https://brygida-arch.vercel.app"
-            ><img src="../public/foto/01.png" /> katalog zabytków z opisami</NuxtLink
+            ><img 
+            alt="obrazek przedstawia starą, grubą księgę w barwach sepi"
+            src="../public/foto/01.png" /> katalog zabytków z opisami</NuxtLink
           >
         </div>
         <div>
           <NuxtLink target="_blank" to="https://swbrygida.pl"
-            ><img src="../public/foto/04.png" />ilustrowana historia
+            ><img 
+            alt="obrazek przedstawia obraz św. Brygidy w pozycji stojącej ze złożonymi do modlitwy rękami"
+            src="../public/foto/04.png" />ilustrowana historia
           </NuxtLink>
         </div>
   
         <div>
           <NuxtLink target="_blank" to="https://brygida-model.vercel.app/"
-            ><img src="../public/foto/03.png" />model układu kościoła</NuxtLink
+            ><img 
+            alt="obrazek przedstawia cyfrowy model pierwszej fazy budowy kościoła rektoralnego, tekstura cegieł na ścianach"
+            src="../public/foto/03.png" />model układu kościoła</NuxtLink
           >
         </div>
   
         <div>
           <NuxtLink target="_blank" to="https://my.matterport.com/show/?m=ZTVZxKyLyMm"
-            ><img src="../public/foto/09.png" />spacer 3d po kosciele</NuxtLink
+            ><img 
+            alt="obrazek przedstawia rzeżbione sklepienie prezbiterium kościoła rektoralnego ze zwisającym na pierwszym planie żyrandolem"
+            src="../public/foto/09.png" />spacer 3d po kosciele</NuxtLink
           >
         </div>
   
         <div>
           <NuxtLink target="_blank" to="https://www.youtube.com/embed/yIBfNPO_a6M"
-            ><img src="../public/foto/05.png" />film o kosciele</NuxtLink
+            ><img 
+            alt="obrazek przedstawia nawę środkową kościoła rektoralnego z ołtarzem w tle"
+            src="../public/foto/05.png" />film o kosciele</NuxtLink
           >
         </div>
         <div>
           <NuxtLink target="_blank" to="/m1"
-            ><img src="../public/foto/06.png" />makiety kościoła</NuxtLink
+            ><img 
+            alt="obrazek przedstawia makietę obecnej bryły kościoła rektoralnego wykonaną z plastiku, białe otynkowane ściany oraz czerwone dachówki"
+            src="../public/foto/06.png" />makiety kościoła</NuxtLink
           >
         </div>
         <div>
           <NuxtLink target="_blank" to="https://swbrygida.pl/historia-ekspozycja-historyczna/"
-            ><img src="../public/foto/eh.jpg" />ekspozycja historyczna
+            ><img 
+            alt="obrazek przedstawia pełną zbroję rycerza Zakonu Krzyżackiego wraz z dwoma wbitymi obok mieczami"
+            src="../public/foto/eh.jpg" />ekspozycja historyczna
           </NuxtLink>
         </div>
         <div>
           <NuxtLink target="_blank" to="https://swbrygida.pl/historia-ekspozycja-archeologiczna/"
-            ><img src="../public/foto/ea.jpg" />ekspozycja archeologiczna
+            ><img 
+            alt="obrazek przedstawia zrekonstruowaną trumnę ostatniej Ksieni Zakonu Brygidek"
+            src="../public/foto/ea.jpg" />ekspozycja archeologiczna
           </NuxtLink>
         </div>
         <div>
           <NuxtLink target="_blank" to="https://swbrygida.pl/historia-ekspozycja-numizmatyczna/"
-            ><img src="../public/foto/en.jpg" />ekspozycja numizmatyczna
+            ><img 
+            alt="obrazek przedstawia gablotę z umieszczonymi w niej znaleziskami numizmatycznymi"
+            src="../public/foto/en.jpg" />ekspozycja numizmatyczna
           </NuxtLink>
         </div>
         <div>
           <NuxtLink target="_blank" to="https://pobrygidkowski.pl/pl/audio.html"
-            ><img src="../public/foto/10.png" />audio - pełna historia</NuxtLink
+            ><img 
+            alt="obrazek przedstawia słuchawki gotowe do użycia"
+            src="../public/foto/10.png" />audio - pełna historia</NuxtLink
           >
         </div>
         <div>
           <NuxtLink target="_blank" to="http://lublublin.pl/oltarz/index.html"
-            ><img src="../public/foto/08.png" />gigapanoramy ołtarzy</NuxtLink
+            ><img 
+            alt="obrazek przedstawia ołtarz główny kościoła rektoralnego"
+            src="../public/foto/08.png" />gigapanoramy ołtarzy</NuxtLink
           >
         </div>
         <div>
           <NuxtLink target="_blank" to="http://lublublin.pl/oltarz/100/index.html"
-            ><img src="../public/foto/07.png" />panorama lotnicza</NuxtLink
+            ><img 
+            alt="obrazek przedstawia widok z lotu ptaka na kościół rektoralny, wykonany w dzień"
+            src="../public/foto/07.png" />panorama lotnicza</NuxtLink
           >
         </div>
 

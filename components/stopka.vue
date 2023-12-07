@@ -1,9 +1,12 @@
 <template>
   <main>
     <div class="stopka">
+      <NuxtLink  target="_blank"  to="/info">
+      <img src="../public/icons/mkidn-logo.png"  class="logotypMKiDN" alt="Logotyp Ministerstwa Kultury i
+    Dziedzictwa Narodowego"></NuxtLink>
       <p>
         <NuxtLink  target="_blank"  to="/info"
-          >Dofinansowano ze środków Ministerstwa Kultury i Dziedzictwa Narodowego pochodzących z Funduszu Promocji Kultury - państwowego funduszu celowego</NuxtLink
+          >Dofinansowano ze środków Funduszu Promocji Kultury</NuxtLink
         >
       </p>
     </div>
@@ -24,9 +27,19 @@
   position: fixed;
   bottom: 0; left: 0;
   font-family: "Inknut Antiqua", serif;
-  line-height: 1.8rem
+  line-height: 1.8rem;
+  display: flex;
+  flex-wrap: wrap;
   
+  align-items: center;
+  justify-content: center;
+}
 
+
+img.logotypMKiDN {
+  height: 4em!important;
+  width: auto;
+  margin: 0 2em;
 }
 
 </style>

@@ -2,9 +2,22 @@
     <main>
     <Belka />
 
-    <img src="../public/icons/info.jpg" class="infoo" alt="Informacja o dopinansowaniu projektu ze środków Ministerstwa Kultury i
-    Dziedzictwa Narodowego">
+
     <div class="dofinansowano">
+      <h3>
+        KULTURA CYFROWA 2023<br><br>
+
+Stworzenie nowoczesnej aplikacji internetowej oraz udostępnienie przewodnika wirtualnego 3d online <br>
+
+dofinansowano ze środków Funduszu Promocji Kultury<br>
+
+dofinansowanie - 75.000,00 zł<br>
+
+całkowita wartość zadania 93.750,00 zł<br>
+
+data podpisania umowy 25 maja 2023 r. 
+<br><br>
+      </h3>
     <p>
      Projekt zakłada zbudowanie aplikacji internetowej, która w sposób przyjazny użytkownikom, przy użyciu współczesnych technologii internetowych, będzie udostępniała, prezentowała i pomagała wyszukać, wszystkie dotychczas zdigitalizowane obiekty związane z kościołem pobrygidkowskim.
 
@@ -36,11 +49,17 @@
  https://brygida-start.vercel.app/ </NuxtLink>
  <br>
  Zapraszamy!</p>
+
+ <img src="../public/icons/info2.jpg" class="infoo" alt="Informacja o dopinansowaniu projektu ze środków Ministerstwa Kultury i
+    Dziedzictwa Narodowego">
+
  </div>
     </main>
    </template>
    <style>
-   .dofinansowano p {
+   .dofinansowano p,
+   .dofinansowano h3
+    {
      width: 80%;
      margin: 0 10%;
    }
@@ -48,7 +67,8 @@
      margin: 0 0 4em 0;
    }
    img.infoo {
-    width: 100%!important;
-    margin: 6em 0!important;
+    width: 80%!important;
+    margin: 6em 0 6em 10%;
+    
    }
    </style>
